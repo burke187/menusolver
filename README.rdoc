@@ -1,0 +1,6 @@
+=Menu Parse and Solve
+
+=Run in terminal 
+* While in the root folder, execute "ruby run.rb"
+
+This will run the script with the given "menu.txt" file as the input source. Or you can pass in another text file with "ruby run.rb another_file.txt" This will return a nested array of all the possible combinations that amount to the target price. 

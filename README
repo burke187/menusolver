@@ -1,8 +1,0 @@
-MENU PARSE AND SOLVE
-
-
-
-
-Run in terminal in the /lib directory "ruby solver.rb"
-
-This will run the program with the given "menu.txt" file as the input source. This will return a nested array of all the possible combinations that amount to the target price. In this case the possible combinations are either 7 orders of mixed fruit or 2 orders of hot wings, 1 mixed fruit, and a sampler plate. Bon Appétit!
