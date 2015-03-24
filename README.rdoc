@@ -6,4 +6,4 @@ Write a program to read in the data file and find any combination of dishes that
 =Run in terminal 
 * While in the root folder, execute "ruby run.rb"
 
-This will run the script with the given "menu.txt" file as the input source. Or you can pass in another text file with "ruby run.rb another_file.txt" This will return an array of each possible combinations that amount to the target price. 
+This will run the script with the given "menu.txt" file as the input source. Or you can pass in another text file with "ruby run.rb another_file.txt" This will return an array of each possible combination that amounts to the target price. 
