@@ -1,5 +1,5 @@
 module MenuSolver
-	class MenuParser
+	class Parser
 
 		def initialize(file)
 			@file = File.open(file)

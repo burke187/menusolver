@@ -1,6 +1,6 @@
 require_relative "parser"
 
-file = MenuSolver::MenuParser.new ARGV[0] || 'menu.txt'
+file = MenuSolver::Parser.new ARGV[0] || 'menu.txt'
 
 results = file.parse.solve 
 
