@@ -2,7 +2,7 @@ require_relative '../parser'
 
 describe 'MenuSolver' do
 	before do
-		@menu_hash = MenuSolver::MenuParser.new('new.txt').parse
+		@menu_hash = MenuSolver::Parser.new('new.txt').parse
 		@results = @menu_hash.solve 
 	end
 	
